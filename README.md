@@ -8,7 +8,7 @@ https://olived.app
 
 OlivedPro is a modern, all-platform live streaming recorder that monitors the streamer's status and automatically turns on recording when your favorite streamer is online. Helps you capture every live content just like a regular TV recorder.
 
-This software can record with the best video quality, from 720p to 4K! If your network bandwidth allows, it can record as many broadcasts as you want at the same time. Now, OlivedPro has supported recording on bigo, bigo, Twitch, bigo, Douyin, Douyu, Huya, NimoTV, Bilibili and lots of other platforms! Download and use it now!
+This software can record with the best video quality, from 720p to 4K! If your network bandwidth allows, it can record as many broadcasts as you want at the same time. Now, OlivedPro has supported recording on Tiktok, Twitch, bigo, Douyin, Douyu, Huya, NimoTV, Bilibili and lots of other platforms! Download and use it now!
 
 
 ## Manual
